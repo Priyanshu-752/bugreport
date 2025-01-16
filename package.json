@@ -1,8 +1,8 @@
 {
-  "name": "bug-report",
+  "name": "bugreport",
   "version": "3.3.0",
   "private": true,
-  "homepage": "https://priyanshu-752.github.io/bug-report/",
+  "homepage": "https://priyanshu-752.github.io/bugreport/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
